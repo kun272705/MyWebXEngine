@@ -2,7 +2,7 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mycompany</groupId>
-  <artifactId>myserverbuilder</artifactId>
+  <artifactId>mywebappserverbuilder</artifactId>
 
   <version>1.0.0</version>
 
